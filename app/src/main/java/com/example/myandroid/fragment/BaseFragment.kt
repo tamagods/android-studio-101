@@ -59,7 +59,7 @@ open class BaseFragment : Fragment() {
 
     override fun onDestroyView() {
         super.onDestroyView()
-        Log.i(logTag, "onDestoruView")
+        Log.i(logTag, "onDestoryView")
     }
 
     override fun onDestroy() {
