@@ -7,4 +7,6 @@
     <string name="login">Login</string>
     <string name="btn_login">Login</string>
     <string name="sign_in">Sign In</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_back">Back</string>
 </resources>
